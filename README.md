@@ -1,5 +1,7 @@
 # Raj_et_al_2024
 
-We can also add the Ilastik projects here.
+Accompanying material and scripts for:
 
-Scripts need clean up before publication.
+Membrane Tension Regulation is Required for Wound Repair
+
+Nikita Raj*, Martin Weiss, Bart E. Vos, Sarah Weischer, Frauke Brinkmann, Timo Betz, Britta Trappmann, Volker Gerke* 
